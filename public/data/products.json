@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "1",
+      "provider": "gara",
+      "price": 17100,
+      "image": "/images/image001.png"
+    },
+    {
+      "id": 2,
+      "name": "2",
+      "provider": "gorigory",
+      "price": 3000,
+      "image": "/images/image002.png"
+    },
+    {
+      "id": 3,
+      "name": "3",
+      "provider": "100-QM",
+      "price": 7000,
+      "image": "/images/image003.png"
+    },
+    {
+      "id": 4,
+      "name": "4",
+      "provider": "mara",
+      "price": 1900,
+      "image": "/images/image004.png"
+    },
+    {
+      "id": 5,
+      "name": "5",
+      "provider": "numpy",
+      "price": 99000,
+      "image": "/images/image005.png"
+    },
+    {
+      "id": 6,
+      "name": "6",
+      "provider": "sara",
+      "price": 69000,
+      "image": "/images/image006.png"
+    },
+    {
+      "id": 7,
+      "name": "7",
+      "provider": "bara",
+      "price": 1000000,
+      "image": "/images/image007.png"
+    },
+    {
+      "id": 8,
+      "name": "8",
+      "provider": "ssara",
+      "price": 5900,
+      "image": "/images/image008.png"
+    }
+  ]
+}
